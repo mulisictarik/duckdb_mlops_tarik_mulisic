@@ -1,0 +1,2 @@
+# duckdb_mlops_tarik_mulisic
+learing_duckdb
